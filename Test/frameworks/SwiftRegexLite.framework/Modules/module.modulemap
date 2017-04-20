@@ -1,0 +1,6 @@
+framework module SwiftRegexLite {
+  umbrella header "SwiftRegexLite.h"
+
+  export *
+  module * { export * }
+}
