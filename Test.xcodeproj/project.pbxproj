@@ -10,6 +10,7 @@
 		E7AFD73A1EA94C06001D5119 /* Test.h in Headers */ = {isa = PBXBuildFile; fileRef = E7AFD7381EA94C06001D5119 /* Test.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		E7AFD7421EA94C66001D5119 /* SwiftRegexLite.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E7AFD7411EA94C66001D5119 /* SwiftRegexLite.framework */; };
 		E7AFD7451EA94D03001D5119 /* String_Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7AFD7441EA94D03001D5119 /* String_Extension.swift */; };
+		E7B199C51EA9541F00B2519F /* Test.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E7AFD7351EA94C06001D5119 /* Test.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +26,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E7B199C51EA9541F00B2519F /* Test.framework in Frameworks */,
 				E7AFD7421EA94C66001D5119 /* SwiftRegexLite.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -340,6 +342,7 @@
 				E7AFD73F1EA94C06001D5119 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
